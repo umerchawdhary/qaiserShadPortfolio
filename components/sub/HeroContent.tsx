@@ -38,8 +38,7 @@ const HeroContent = () => {
               {" "}
               the best{" "}
             </span>
-            frontend exprience
-          </span>
+Mern Stack Experience          </span>
         </motion.div>
 
         <motion.p
