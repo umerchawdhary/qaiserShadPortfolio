@@ -13,16 +13,16 @@ const Navbar = () => {
           href="#about-me"
           className="h-auto w-auto flex flex-row items-center shrink-0"
         >
-          {/* <Image
+          <Image
             src="/umerqayyumNew.jpeg"
             alt="logo"
             width={38}
             height={38}
             className="cursor-pointer rounded-full hover:animate-slowspin w-[38px] h-[38px] "
-          /> */}
+          />
 
           <span className="font-bold ml-[10px] hidden md:block text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-Qaiser Shad          </span>
+Umer Qayyum          </span>
         </a>
 
         <div className="w-[500px] h-full hidden md:flex flex-row items-center justify-between md:mr-20">
@@ -40,13 +40,13 @@ Qaiser Shad          </span>
         </div>
 
         <div className="flex flex-row items-center gap-5 text-white">
-          <a target="_blank" href="mqaisershad@gmail.com?subject=Inquiry&body=Hello, I would like to discuss this project idea...">
+          <a target="_blank" href="chumera3@gmail.com?subject=Inquiry&body=Hello, I would like to discuss this project idea...">
             <span className="text-xl text-gray-300 transition-all hover:text-white cursor-pointer">
               <MdEmail />
             </span>
           </a>
 
-          <a target="_blank" href="https://www.linkedin.com/in/muhammad-qaiser-21357a161?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <a target="_blank" href="https://www.linkedin.com/in/umer-qayyum-9498612b2/">
             <span className="text-lg text-gray-300 transition-all hover:text-white cursor-pointer">
               <IoLogoLinkedin />
             </span>
